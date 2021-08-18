@@ -51,7 +51,7 @@ SKT Kanu (Azure project)
 
 
 ## Event Storming 결과
-* MSAEz 로 모델링한 이벤트스토밍 결과: http://www.msaez.io/#/storming/QFPJP8hKmlRp2MfooEVdmMfG9B72/mine/ccf667a1ea140f64e4144c2628864dfd
+* MSAEz 로 모델링한 이벤트스토밍 결과: http://labs.msaez.io/#/storming/P3HDhaDCvERl1kR9ZDeRJxSKcBj1/9de0090e507d50647baadc0be4472c77
 
 ### 이벤트 도출
 ![image](https://user-images.githubusercontent.com/19682978/123178135-8af4ae80-d4c1-11eb-88b1-fb3ccf96a583.png)
